@@ -21,15 +21,6 @@ If grade is between 50 and 59 (inclusive), it returns "C."
 If grade is between 60 and 79 (inclusive), it returns "B."
 If grade is between 80 and 100 (inclusive), it returns "A".
 If grade is outside the 0-100 range, it returns "Invalid grade."
-Example
-
-javascript
-Copy code
-console.log(result(40));
-The input grade is 40, which is outside the valid range of 0-100. Therefore, the function will return "D." as specified.
-It's important to note that you should pass valid numeric grades within the 0-100 range when using this function.
-
-
 
 Salary Calculation Code
 
