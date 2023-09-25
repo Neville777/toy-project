@@ -4,7 +4,7 @@ Grade Classification Code
 
 This is a code written in JavaScript that takes a numerical grade as input and returns the corresponding letter grade based on a predefined grading scale. The grading scale ranges from 0 to 100, and anything ouside it as "invalid grade".
 
-Usage
+Usage 
 
 javascript
 Copy code
