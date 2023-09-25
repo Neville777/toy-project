@@ -89,3 +89,11 @@ Copy code
 let speed = 30;
 console.log(calDemeritPoints(speed));
 The input speed is 30, which is below the speed limit (70). Therefore, the function will return "OK."
+
+Author 
+
+Neville777
+
+License
+
+MIT Lincese
